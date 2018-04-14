@@ -1,0 +1,31 @@
+{
+  "name": "react-button-component",
+  "version": "0.0.0",
+  "description": "A simple react button component",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "button"
+  ],
+  "author": "buoyantair",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "react": "^16.3.1",
+    "styled-components": "^3.2.5",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
