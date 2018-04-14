@@ -13,7 +13,12 @@
     "button"
   ],
   "author": "buoyantair",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buoyantair/react-button-component.git"
+  },
+  "homepage": "https://github.com/buoyantair/react-button-component",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
